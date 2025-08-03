@@ -1,3 +1,6 @@
+# berlin-film-app
+A side project for Berlin Movie Geeks to explore latest tech stack in front-end.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
